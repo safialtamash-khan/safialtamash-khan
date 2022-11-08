@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/safialtamash-khan?tab=repositories]GitHub
+- 👨‍💻 All of my projects are available at [https://github.com/safialtamash-khan?tab=repositories] GitHub
 
 - 💬 Ask me about **React**
 
